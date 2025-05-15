@@ -1,9 +1,6 @@
 ## *Ciao* there! 👋
 
-🏫 I’m a PhD student at the Polytechnic University of Turin (Italy).
-
-I work on climate services — tools and systems that help people, companies, and institutions make better decisions using climate data.
-My main focus is on how we can use Artificial Intelligence to make climate services smarter, more useful, and easier to use.
+🏫 I’m a PhD student at the Polytechnic University of Turin (Italy). I work on climate services — tools and systems that help people, companies, and institutions make better decisions using climate data. My main focus is on how we can use Artificial Intelligence to make climate services smarter, more useful, and easier to use.
 
 👍 Here on my GitHub, you’ll find a mix of things: experimental projects, Python tools for working with climate data, AI applications, and work-in-progress ideas from my research.
 
