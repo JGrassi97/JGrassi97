@@ -17,5 +17,5 @@
 
 - **Data Management**
 
-  - [ERA-LARC](https://github.com/JGrassi97/ERA_LARC)
+  - [ERA-LARC](https://github.com/JGrassi97/ERA_LARC): tool for creating a climate data local archive in zarr [OUTDATED]
 
