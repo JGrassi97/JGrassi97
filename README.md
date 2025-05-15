@@ -17,6 +17,5 @@
 
 - **Data Management**
 
-  [ERA-LARC](https://github.com/JGrassi97/ERA_LARC)
-  
-  A tool for creating a local archive of climate data. It was quite useful for working offline or organizing custom datasets, but with recent improvements in data access platforms, it’s starting to feel a bit outdated. Still, it might be helpful depending on your use case!
+  - [ERA-LARC](https://github.com/JGrassi97/ERA_LARC)
+
