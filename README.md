@@ -16,7 +16,7 @@
 ### Current state:
 
 - **Large Language Models**
-  - [climagent](https://github.com/JGrassi97/climagent): enabling LLMs to interact with real climate data thorught function calling.   
+  - [climagent](https://github.com/JGrassi97/climagent): enabling LLMs to interact with real climate data.   
 
 - **Data Management**
   - [ERA-LARC](https://github.com/JGrassi97/ERA_LARC): tool for creating a local archive of climate data.
